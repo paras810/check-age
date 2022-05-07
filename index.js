@@ -11,7 +11,7 @@ const checkAge =()=>{
 //    console.log('clicked');
     // console.log(age.value)
     if(age.value === ""){
-        alert('please Enter you age.')
+        alert('please Enter your age.')
     }
    else if(age.value >=18){
    alert('Your age is above 18 so, You can drink alcohol 🍻🍻')
